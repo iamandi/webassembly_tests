@@ -1,0 +1,23 @@
+{
+  "name": "webassembly_tests",
+  "version": "1.0.0",
+  "description": "Testing webassembly tutorials",
+  "main": "a.out.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamandi/webassembly_tests.git"
+  },
+  "keywords": [],
+  "author": "Aniruddha Kawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamandi/webassembly_tests/issues"
+  },
+  "homepage": "https://github.com/iamandi/webassembly_tests#readme",
+  "dependencies": {
+    "jshint": "^2.12.0"
+  }
+}
